@@ -2,6 +2,9 @@
 
 **SendIt** is a high-performance, minimalist file-sharing application. It allows users to upload files to the cloud, generate unique sharing codes, and manage their transfer history with a focus on speed, security, and a modern user experience.
 
+🔗 **Project Link:**  
+https://sendit-ruby.vercel.app/
+
 ---
 
 ## Project Preview
