@@ -1,10 +1,10 @@
-# 🚀 SendIt | Secure MERN File Sharing Platform
+# SENDIT | Secure MERN File Sharing Platform
 
 **SendIt** is a high-performance, minimalist file-sharing application. It allows users to upload files to the cloud, generate unique sharing codes, and manage their transfer history with a focus on speed, security, and a modern user experience.
 
 ---
 
-## 📸 Project Preview
+## Project Preview
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6f1c9742-ee36-4fee-8afd-8ba223b9cb14" height="350" />
@@ -39,7 +39,7 @@
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Sendit/
