@@ -7,15 +7,15 @@
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6f1c9742-ee36-4fee-8afd-8ba223b9cb14" height="300" />
-  <img src="https://github.com/user-attachments/assets/34079c5c-b0d3-49f7-99ea-765cf0568ba4" height="300" />
-  <img src="https://github.com/user-attachments/assets/63e02126-fd65-4c37-9883-c93eeac903f9" height="300" />
+  <img src="https://github.com/user-attachments/assets/6f1c9742-ee36-4fee-8afd-8ba223b9cb14" height="350" />
+  <img src="https://github.com/user-attachments/assets/34079c5c-b0d3-49f7-99ea-765cf0568ba4" height="350" />
+  <img src="https://github.com/user-attachments/assets/63e02126-fd65-4c37-9883-c93eeac903f9" height="350" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/86cfc793-26ca-48df-83e0-fe0f7a31620d" height="300" />
-  <img src="https://github.com/user-attachments/assets/a11fea5e-59cc-4502-bf3b-0c3b77ad9e59" height="300" />
-  <img src="https://github.com/user-attachments/assets/e3863aaa-1c70-4766-b72c-d01463f9eee4" height="300" />
+  <img src="https://github.com/user-attachments/assets/86cfc793-26ca-48df-83e0-fe0f7a31620d" height="350" />
+  <img src="https://github.com/user-attachments/assets/a11fea5e-59cc-4502-bf3b-0c3b77ad9e59" height="350" />
+  <img src="https://github.com/user-attachments/assets/e3863aaa-1c70-4766-b72c-d01463f9eee4" height="350" />
 </p>
 
 ---
@@ -58,5 +58,3 @@ Sendit/
 │   │   ├── services/       # Axios API instance configuration
 │   │   └── App.jsx         # Main Routing & State
 │   └── vite.config.js      # Build & Plugin configurations
-
-Developed by Adil Ansari
