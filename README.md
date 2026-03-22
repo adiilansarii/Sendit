@@ -58,3 +58,5 @@ Sendit/
 │   │   ├── services/       # Axios API instance configuration
 │   │   └── App.jsx         # Main Routing & State
 │   └── vite.config.js      # Build & Plugin configurations
+```
+Developed by Adil Ansari
