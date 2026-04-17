@@ -1,7 +1,6 @@
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import { useSelector } from "react-redux";
-// Import modern icons to replace the ★ text
 import { LuShieldCheck, LuZap, LuSmartphone, LuGlobe } from "react-icons/lu";
 
 function Home() {
